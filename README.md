@@ -24,13 +24,13 @@ Fake profiles don't increase credibility, or blog posts or fake mag articles lik
 - https://github.com/jengostonejs/jengojs/blob/main/README.md
 - https://arc.dev/@jengostonejs
 - https://www.meetup.com/members/473050811/
-- not even LinkedIn
+- not even [LinkedIn](https://www.linkedin.com/in/jengo-mwamba-stone-0359903a2/)
 - or personal
 - portfolio
 - profiles
 - like
-- jengostone.de
-- jengostone.dev
-- jengostone.10xdeveloper
+- [jengostone.de](https://jengostone.de)
+- [jengostone.dev](https://jengostone.dev)
+- [jengostone.10xdeveloper](https://jengostone.dev)
 
 This is just a persona.
