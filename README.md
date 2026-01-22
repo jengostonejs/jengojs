@@ -15,3 +15,22 @@ Family, party, hobby DJ
 another picture at a party and another one at a conference that never took place in real life
 
 ![Person in front of a text that reads accessibility is a design choice](a90af7b0-3bf4-469f-a5aa-46286b724d8a_2681x1620.jpg)
+
+Do you think those pictures are real? You can’t trust any image or video anymore.
+
+Fake profiles don't increase credibility, or blog posts or fake mag articles like
+
+- https://jengostonemwamba.substack.com/publish/post/164474707
+- https://github.com/jengostonejs/jengojs/blob/main/README.md
+- https://arc.dev/@jengostonejs
+- https://www.meetup.com/members/473050811/
+- not even LinkedIn
+- or personal
+- portfolio
+- profiles
+- like
+- jengostone.de
+- jengostone.dev
+- jengostone.10xdeveloper
+
+This is just a persona.
