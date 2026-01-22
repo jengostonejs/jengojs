@@ -12,4 +12,6 @@ Family, party, hobby DJ
 
 ![Person standing in a colorful party scene, dancing people in the background](jengo-mwamba-party-afro.jpg)
 
-another picture at a party
+another picture at a party and another one at a conference that never took place in real life
+
+![Person in front of a text that reads accessibility is a design choice](a90af7b0-3bf4-469f-a5aa-46286b724d8a_2681x1620.jpg)
